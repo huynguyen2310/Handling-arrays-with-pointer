@@ -88,5 +88,6 @@ char * my_strdupl(char *s){
 		b[i] = s[i];
 	}
 	b[i]='\0';
+	//nhulon
 	return b;
 }
